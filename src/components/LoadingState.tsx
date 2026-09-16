@@ -1,0 +1,1 @@
+export function LoadingState() { return <div className="loading-state" aria-label="Searching GitHub"><span className="loading-bar" /><span className="loading-bar" /><span className="loading-bar" /></div> }
