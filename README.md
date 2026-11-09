@@ -46,3 +46,15 @@ src/
 - `npm run build` runs TypeScript's project build followed by Vite's production build.
 - `npm run lint` checks the source with Oxlint.
 - Manual checks: Enter search, debounced typing, clear, repeat searches (cache), a nonexistent username (404), and rapid searches with an artificial first-request delay.
+
+## Skills demonstrated
+
+- React, TypeScript, and Vite application development.
+- GitHub REST API integration and typed API response handling.
+- Debounced search, AbortController cancellation, and stale-response protection with request IDs.
+- In-memory caching, loading/empty/error states, and rate-limit handling.
+- Custom hooks, component composition, and production builds.
+
+## Repository
+
+- Source code: https://github.com/ADAMDEV01/live-search-dash-board
